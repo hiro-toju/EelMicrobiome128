@@ -1,0 +1,1124 @@
+[1] "2022-08-28 14:04:26 JST"
+
+Start learnerror from 2022-08-28 14:04:33...
+100166340 total bases in 416338 reads from 251 samples will be used for learning the error rates.
+null device 
+          1 
+Sample 1 - 2 reads in 2 unique sequences.
+Sample 2 - 2 reads in 2 unique sequences.
+Sample 3 - 2359 reads in 215 unique sequences.
+Sample 4 - 1133 reads in 113 unique sequences.
+Sample 5 - 18 reads in 13 unique sequences.
+Sample 6 - 90 reads in 45 unique sequences.
+Sample 7 - 6 reads in 2 unique sequences.
+Sample 8 - 1495 reads in 632 unique sequences.
+Sample 9 - 1469 reads in 133 unique sequences.
+Sample 10 - 3016 reads in 274 unique sequences.
+Sample 11 - 3005 reads in 504 unique sequences.
+Sample 12 - 2888 reads in 587 unique sequences.
+Sample 13 - 603 reads in 315 unique sequences.
+Sample 14 - 5281 reads in 531 unique sequences.
+Sample 15 - 203 reads in 95 unique sequences.
+Sample 16 - 1161 reads in 137 unique sequences.
+Sample 17 - 805 reads in 283 unique sequences.
+Sample 18 - 1503 reads in 206 unique sequences.
+Sample 19 - 64 reads in 9 unique sequences.
+Sample 20 - 15311 reads in 1502 unique sequences.
+Sample 21 - 882 reads in 140 unique sequences.
+Sample 22 - 667 reads in 125 unique sequences.
+Sample 23 - 4449 reads in 415 unique sequences.
+Sample 24 - 884 reads in 142 unique sequences.
+Sample 25 - 623 reads in 211 unique sequences.
+Sample 26 - 17 reads in 2 unique sequences.
+Sample 27 - 292 reads in 205 unique sequences.
+Sample 28 - 534 reads in 204 unique sequences.
+Sample 29 - 3264 reads in 465 unique sequences.
+Sample 30 - 679 reads in 137 unique sequences.
+Sample 31 - 37 reads in 16 unique sequences.
+Sample 32 - 3509 reads in 471 unique sequences.
+Sample 33 - 1712 reads in 882 unique sequences.
+Sample 34 - 4374 reads in 596 unique sequences.
+Sample 35 - 53 reads in 30 unique sequences.
+Sample 36 - 1704 reads in 232 unique sequences.
+Sample 37 - 91 reads in 15 unique sequences.
+Sample 38 - 501 reads in 197 unique sequences.
+Sample 39 - 1279 reads in 245 unique sequences.
+Sample 40 - 2203 reads in 284 unique sequences.
+Sample 41 - 16 reads in 14 unique sequences.
+Sample 42 - 209 reads in 157 unique sequences.
+Sample 43 - 186 reads in 32 unique sequences.
+Sample 44 - 2460 reads in 313 unique sequences.
+Sample 45 - 1927 reads in 285 unique sequences.
+Sample 46 - 2770 reads in 190 unique sequences.
+Sample 47 - 3603 reads in 245 unique sequences.
+Sample 48 - 2306 reads in 259 unique sequences.
+Sample 49 - 1182 reads in 185 unique sequences.
+Sample 50 - 3095 reads in 378 unique sequences.
+Sample 51 - 1399 reads in 278 unique sequences.
+Sample 52 - 1701 reads in 288 unique sequences.
+Sample 53 - 112 reads in 27 unique sequences.
+Sample 54 - 3017 reads in 569 unique sequences.
+Sample 55 - 2220 reads in 261 unique sequences.
+Sample 56 - 37 reads in 6 unique sequences.
+Sample 57 - 5 reads in 5 unique sequences.
+Sample 58 - 2 reads in 2 unique sequences.
+Sample 59 - 354 reads in 69 unique sequences.
+Sample 60 - 13 reads in 11 unique sequences.
+Sample 61 - 1699 reads in 310 unique sequences.
+Sample 62 - 114 reads in 29 unique sequences.
+Sample 63 - 3 reads in 3 unique sequences.
+Sample 64 - 1049 reads in 158 unique sequences.
+Sample 65 - 540 reads in 150 unique sequences.
+Sample 66 - 4 reads in 2 unique sequences.
+Sample 67 - 133 reads in 21 unique sequences.
+Sample 68 - 11 reads in 10 unique sequences.
+Sample 69 - 17 reads in 10 unique sequences.
+Sample 70 - 894 reads in 95 unique sequences.
+Sample 71 - 1421 reads in 230 unique sequences.
+Sample 72 - 16 reads in 12 unique sequences.
+Sample 73 - 1430 reads in 190 unique sequences.
+Sample 74 - 216 reads in 139 unique sequences.
+Sample 75 - 921 reads in 149 unique sequences.
+Sample 76 - 433 reads in 62 unique sequences.
+Sample 77 - 466 reads in 59 unique sequences.
+Sample 78 - 915 reads in 124 unique sequences.
+Sample 79 - 1056 reads in 182 unique sequences.
+Sample 80 - 64 reads in 19 unique sequences.
+Sample 81 - 374 reads in 203 unique sequences.
+Sample 82 - 1240 reads in 148 unique sequences.
+Sample 83 - 1099 reads in 324 unique sequences.
+Sample 84 - 2986 reads in 219 unique sequences.
+Sample 85 - 2895 reads in 577 unique sequences.
+Sample 86 - 3703 reads in 365 unique sequences.
+Sample 87 - 4 reads in 4 unique sequences.
+Sample 88 - 2612 reads in 313 unique sequences.
+Sample 89 - 2 reads in 2 unique sequences.
+Sample 90 - 13 reads in 10 unique sequences.
+Sample 91 - 326 reads in 92 unique sequences.
+Sample 92 - 1653 reads in 159 unique sequences.
+Sample 93 - 332 reads in 99 unique sequences.
+Sample 94 - 12 reads in 7 unique sequences.
+Sample 95 - 1648 reads in 594 unique sequences.
+Sample 96 - 205 reads in 23 unique sequences.
+Sample 97 - 6 reads in 1 unique sequences.
+Sample 98 - 261 reads in 42 unique sequences.
+Sample 99 - 39 reads in 38 unique sequences.
+Sample 100 - 61 reads in 6 unique sequences.
+Sample 101 - 5759 reads in 500 unique sequences.
+Sample 102 - 3523 reads in 274 unique sequences.
+Sample 103 - 30 reads in 10 unique sequences.
+Sample 104 - 7170 reads in 606 unique sequences.
+Sample 105 - 1442 reads in 402 unique sequences.
+Sample 106 - 5 reads in 1 unique sequences.
+Sample 107 - 3272 reads in 342 unique sequences.
+Sample 108 - 499 reads in 81 unique sequences.
+Sample 109 - 2108 reads in 285 unique sequences.
+Sample 110 - 931 reads in 110 unique sequences.
+Sample 111 - 5400 reads in 951 unique sequences.
+Sample 112 - 889 reads in 294 unique sequences.
+Sample 113 - 140 reads in 24 unique sequences.
+Sample 114 - 1572 reads in 497 unique sequences.
+Sample 115 - 3036 reads in 381 unique sequences.
+Sample 116 - 3001 reads in 555 unique sequences.
+Sample 117 - 1925 reads in 243 unique sequences.
+Sample 118 - 3127 reads in 524 unique sequences.
+Sample 119 - 911 reads in 172 unique sequences.
+Sample 120 - 936 reads in 149 unique sequences.
+Sample 121 - 982 reads in 375 unique sequences.
+Sample 122 - 7748 reads in 917 unique sequences.
+Sample 123 - 130 reads in 37 unique sequences.
+Sample 124 - 5158 reads in 913 unique sequences.
+Sample 125 - 1073 reads in 555 unique sequences.
+Sample 126 - 1341 reads in 124 unique sequences.
+Sample 127 - 234 reads in 115 unique sequences.
+Sample 128 - 567 reads in 88 unique sequences.
+Sample 129 - 221 reads in 45 unique sequences.
+Sample 130 - 25 reads in 10 unique sequences.
+Sample 131 - 9824 reads in 987 unique sequences.
+Sample 132 - 9294 reads in 1008 unique sequences.
+Sample 133 - 6568 reads in 1187 unique sequences.
+Sample 134 - 1549 reads in 238 unique sequences.
+Sample 135 - 9552 reads in 1699 unique sequences.
+Sample 136 - 1105 reads in 84 unique sequences.
+Sample 137 - 6173 reads in 890 unique sequences.
+Sample 138 - 4672 reads in 511 unique sequences.
+Sample 139 - 4407 reads in 490 unique sequences.
+Sample 140 - 1138 reads in 650 unique sequences.
+Sample 141 - 2472 reads in 679 unique sequences.
+Sample 142 - 2656 reads in 630 unique sequences.
+Sample 143 - 1740 reads in 160 unique sequences.
+Sample 144 - 1550 reads in 292 unique sequences.
+Sample 145 - 3678 reads in 432 unique sequences.
+Sample 146 - 124 reads in 16 unique sequences.
+Sample 147 - 122 reads in 43 unique sequences.
+Sample 148 - 103 reads in 56 unique sequences.
+Sample 149 - 1212 reads in 169 unique sequences.
+Sample 150 - 3 reads in 3 unique sequences.
+Sample 151 - 24 reads in 9 unique sequences.
+Sample 152 - 2435 reads in 348 unique sequences.
+Sample 153 - 2995 reads in 346 unique sequences.
+Sample 154 - 1933 reads in 213 unique sequences.
+Sample 155 - 3833 reads in 437 unique sequences.
+Sample 156 - 4044 reads in 519 unique sequences.
+Sample 157 - 2263 reads in 196 unique sequences.
+Sample 158 - 4 reads in 4 unique sequences.
+Sample 159 - 1658 reads in 242 unique sequences.
+Sample 160 - 3620 reads in 770 unique sequences.
+Sample 161 - 1715 reads in 226 unique sequences.
+Sample 162 - 98 reads in 64 unique sequences.
+Sample 163 - 4191 reads in 351 unique sequences.
+Sample 164 - 515 reads in 67 unique sequences.
+Sample 165 - 278 reads in 124 unique sequences.
+Sample 166 - 676 reads in 54 unique sequences.
+Sample 167 - 402 reads in 44 unique sequences.
+Sample 168 - 593 reads in 84 unique sequences.
+Sample 169 - 2140 reads in 232 unique sequences.
+Sample 170 - 1111 reads in 199 unique sequences.
+Sample 171 - 6071 reads in 1033 unique sequences.
+Sample 172 - 1225 reads in 363 unique sequences.
+Sample 173 - 7139 reads in 711 unique sequences.
+Sample 174 - 1539 reads in 187 unique sequences.
+Sample 175 - 1191 reads in 139 unique sequences.
+Sample 176 - 2122 reads in 188 unique sequences.
+Sample 177 - 1339 reads in 281 unique sequences.
+Sample 178 - 4009 reads in 798 unique sequences.
+Sample 179 - 1098 reads in 153 unique sequences.
+Sample 180 - 376 reads in 47 unique sequences.
+Sample 181 - 1835 reads in 416 unique sequences.
+Sample 182 - 680 reads in 106 unique sequences.
+Sample 183 - 299 reads in 106 unique sequences.
+Sample 184 - 1927 reads in 230 unique sequences.
+Sample 185 - 555 reads in 66 unique sequences.
+Sample 186 - 1134 reads in 330 unique sequences.
+Sample 187 - 181 reads in 27 unique sequences.
+Sample 188 - 202 reads in 170 unique sequences.
+Sample 189 - 1127 reads in 586 unique sequences.
+Sample 190 - 3640 reads in 592 unique sequences.
+Sample 191 - 147 reads in 113 unique sequences.
+Sample 192 - 20 reads in 13 unique sequences.
+Sample 193 - 600 reads in 80 unique sequences.
+Sample 194 - 26 reads in 13 unique sequences.
+Sample 195 - 611 reads in 285 unique sequences.
+Sample 196 - 763 reads in 341 unique sequences.
+Sample 197 - 331 reads in 55 unique sequences.
+Sample 198 - 47 reads in 6 unique sequences.
+Sample 199 - 839 reads in 78 unique sequences.
+Sample 200 - 111 reads in 21 unique sequences.
+Sample 201 - 32 reads in 12 unique sequences.
+Sample 202 - 211 reads in 30 unique sequences.
+Sample 203 - 4 reads in 4 unique sequences.
+Sample 204 - 3356 reads in 666 unique sequences.
+Sample 205 - 5091 reads in 765 unique sequences.
+Sample 206 - 333 reads in 41 unique sequences.
+Sample 207 - 2982 reads in 326 unique sequences.
+Sample 208 - 3562 reads in 443 unique sequences.
+Sample 209 - 984 reads in 334 unique sequences.
+Sample 210 - 4247 reads in 729 unique sequences.
+Sample 211 - 8 reads in 6 unique sequences.
+Sample 212 - 1778 reads in 328 unique sequences.
+Sample 213 - 42 reads in 24 unique sequences.
+Sample 214 - 185 reads in 35 unique sequences.
+Sample 215 - 2 reads in 2 unique sequences.
+Sample 216 - 120 reads in 23 unique sequences.
+Sample 217 - 11 reads in 3 unique sequences.
+Sample 218 - 444 reads in 78 unique sequences.
+Sample 219 - 149 reads in 48 unique sequences.
+Sample 220 - 334 reads in 39 unique sequences.
+Sample 221 - 29 reads in 6 unique sequences.
+Sample 222 - 3103 reads in 583 unique sequences.
+Sample 223 - 941 reads in 236 unique sequences.
+Sample 224 - 2498 reads in 358 unique sequences.
+Sample 225 - 1405 reads in 634 unique sequences.
+Sample 226 - 4302 reads in 306 unique sequences.
+Sample 227 - 5550 reads in 1062 unique sequences.
+Sample 228 - 2722 reads in 292 unique sequences.
+Sample 229 - 4994 reads in 564 unique sequences.
+Sample 230 - 1499 reads in 168 unique sequences.
+Sample 231 - 410 reads in 220 unique sequences.
+Sample 232 - 1854 reads in 923 unique sequences.
+Sample 233 - 333 reads in 53 unique sequences.
+Sample 234 - 7847 reads in 561 unique sequences.
+Sample 235 - 821 reads in 213 unique sequences.
+Sample 236 - 25 reads in 12 unique sequences.
+Sample 237 - 29 reads in 21 unique sequences.
+Sample 238 - 6806 reads in 1079 unique sequences.
+Sample 239 - 813 reads in 272 unique sequences.
+Sample 240 - 854 reads in 139 unique sequences.
+Sample 241 - 43 reads in 26 unique sequences.
+Sample 242 - 1210 reads in 691 unique sequences.
+Sample 243 - 3822 reads in 402 unique sequences.
+Sample 244 - 6 reads in 6 unique sequences.
+Sample 245 - 12 reads in 6 unique sequences.
+Sample 246 - 3 reads in 3 unique sequences.
+Sample 247 - 1629 reads in 244 unique sequences.
+Sample 248 - 2968 reads in 222 unique sequences.
+Sample 249 - 254 reads in 42 unique sequences.
+Sample 250 - 4 reads in 4 unique sequences.
+Sample 251 - 3213 reads in 444 unique sequences.
+Sample 252 - 1288 reads in 195 unique sequences.
+Sample 253 - 1144 reads in 444 unique sequences.
+Sample 254 - 12 reads in 7 unique sequences.
+Sample 255 - 583 reads in 111 unique sequences.
+Sample 256 - 309 reads in 149 unique sequences.
+Sample 257 - 4 reads in 4 unique sequences.
+Sample 258 - 852 reads in 145 unique sequences.
+Sample 259 - 6467 reads in 831 unique sequences.
+Sample 260 - 598 reads in 73 unique sequences.
+Sample 261 - 304 reads in 66 unique sequences.
+Sample 262 - 123 reads in 25 unique sequences.
+Sample 263 - 1262 reads in 134 unique sequences.
+Sample 264 - 7131 reads in 567 unique sequences.
+Sample 265 - 2216 reads in 223 unique sequences.
+Sample 266 - 5331 reads in 619 unique sequences.
+Sample 267 - 783 reads in 122 unique sequences.
+Sample 268 - 2221 reads in 265 unique sequences.
+Sample 269 - 1321 reads in 186 unique sequences.
+Sample 270 - 1008 reads in 81 unique sequences.
+Sample 271 - 306 reads in 248 unique sequences.
+Sample 272 - 34 reads in 7 unique sequences.
+Sample 273 - 143 reads in 28 unique sequences.
+Sample 274 - 30 reads in 12 unique sequences.
+Sample 275 - 30 reads in 15 unique sequences.
+Sample 276 - 4245 reads in 410 unique sequences.
+Sample 277 - 3998 reads in 436 unique sequences.
+Sample 278 - 361 reads in 37 unique sequences.
+Sample 279 - 730 reads in 265 unique sequences.
+Sample 280 - 1046 reads in 108 unique sequences.
+Sample 281 - 277 reads in 32 unique sequences.
+Sample 282 - 146 reads in 31 unique sequences.
+Sample 283 - 534 reads in 72 unique sequences.
+Sample 284 - 417 reads in 51 unique sequences.
+Sample 285 - 48 reads in 8 unique sequences.
+Sample 286 - 164 reads in 56 unique sequences.
+Sample 287 - 1978 reads in 161 unique sequences.
+Sample 288 - 15 reads in 4 unique sequences.
+Sample 289 - 1185 reads in 490 unique sequences.
+Sample 290 - 145 reads in 21 unique sequences.
+Sample 291 - 19 reads in 14 unique sequences.
+Sample 292 - 769 reads in 94 unique sequences.
+Sample 293 - 501 reads in 77 unique sequences.
+Sample 294 - 315 reads in 54 unique sequences.
+Sample 295 - 25 reads in 5 unique sequences.
+Sample 296 - 3595 reads in 365 unique sequences.
+Sample 297 - 41 reads in 9 unique sequences.
+Sample 298 - 334 reads in 65 unique sequences.
+Sample 299 - 11 reads in 3 unique sequences.
+Sample 300 - 160 reads in 34 unique sequences.
+Sample 301 - 389 reads in 164 unique sequences.
+Sample 302 - 552 reads in 99 unique sequences.
+Sample 303 - 536 reads in 219 unique sequences.
+Sample 304 - 19 reads in 8 unique sequences.
+Sample 305 - 6 reads in 5 unique sequences.
+Sample 306 - 28 reads in 23 unique sequences.
+Sample 307 - 1693 reads in 277 unique sequences.
+Sample 308 - 2018 reads in 332 unique sequences.
+Sample 309 - 615 reads in 62 unique sequences.
+Sample 310 - 1779 reads in 160 unique sequences.
+Sample 311 - 2858 reads in 311 unique sequences.
+Sample 312 - 334 reads in 52 unique sequences.
+Sample 313 - 1488 reads in 161 unique sequences.
+Sample 314 - 5686 reads in 800 unique sequences.
+Sample 315 - 2253 reads in 259 unique sequences.
+Sample 316 - 352 reads in 85 unique sequences.
+Sample 317 - 63 reads in 23 unique sequences.
+Sample 318 - 2096 reads in 226 unique sequences.
+Sample 319 - 1243 reads in 556 unique sequences.
+Sample 320 - 591 reads in 63 unique sequences.
+Sample 321 - 1020 reads in 125 unique sequences.
+Sample 322 - 64 reads in 47 unique sequences.
+Sample 323 - 9 reads in 8 unique sequences.
+Sample 324 - 32 reads in 20 unique sequences.
+Sample 325 - 1072 reads in 565 unique sequences.
+Sample 326 - 4240 reads in 550 unique sequences.
+Sample 327 - 1110 reads in 139 unique sequences.
+Sample 328 - 1328 reads in 179 unique sequences.
+Sample 329 - 3075 reads in 224 unique sequences.
+Sample 330 - 400 reads in 38 unique sequences.
+Sample 331 - 188 reads in 29 unique sequences.
+Sample 332 - 642 reads in 95 unique sequences.
+Sample 333 - 9 reads in 6 unique sequences.
+Sample 334 - 237 reads in 57 unique sequences.
+Sample 335 - 639 reads in 86 unique sequences.
+Sample 336 - 1884 reads in 197 unique sequences.
+Sample 337 - 855 reads in 372 unique sequences.
+Sample 338 - 2050 reads in 420 unique sequences.
+Sample 339 - 328 reads in 41 unique sequences.
+Sample 340 - 7635 reads in 571 unique sequences.
+Sample 341 - 2766 reads in 738 unique sequences.
+Sample 342 - 3056 reads in 390 unique sequences.
+Sample 343 - 899 reads in 90 unique sequences.
+Sample 344 - 462 reads in 316 unique sequences.
+Sample 345 - 59 reads in 32 unique sequences.
+Sample 346 - 1070 reads in 114 unique sequences.
+Sample 347 - 20 reads in 17 unique sequences.
+Sample 348 - 33 reads in 8 unique sequences.
+Sample 349 - 3061 reads in 424 unique sequences.
+Sample 350 - 963 reads in 211 unique sequences.
+Sample 351 - 415 reads in 51 unique sequences.
+Sample 352 - 1792 reads in 444 unique sequences.
+Sample 353 - 3490 reads in 258 unique sequences.
+Sample 354 - 9 reads in 8 unique sequences.
+Sample 355 - 8 reads in 5 unique sequences.
+Sample 356 - 30 reads in 7 unique sequences.
+Sample 357 - 439 reads in 50 unique sequences.
+Sample 358 - 471 reads in 87 unique sequences.
+Sample 359 - 5 reads in 1 unique sequences.
+Sample 360 - 8 reads in 8 unique sequences.
+Sample 361 - 5847 reads in 1114 unique sequences.
+Sample 362 - 1734 reads in 277 unique sequences.
+Sample 363 - 518 reads in 57 unique sequences.
+Sample 364 - 227 reads in 35 unique sequences.
+Sample 365 - 45 reads in 11 unique sequences.
+Sample 366 - 851 reads in 468 unique sequences.
+Sample 367 - 15 reads in 5 unique sequences.
+Sample 368 - 3423 reads in 657 unique sequences.
+Sample 369 - 40 reads in 10 unique sequences.
+Sample 370 - 1279 reads in 443 unique sequences.
+Sample 371 - 289 reads in 59 unique sequences.
+Sample 372 - 2842 reads in 296 unique sequences.
+Sample 373 - 731 reads in 156 unique sequences.
+Sample 374 - 2057 reads in 231 unique sequences.
+Sample 375 - 324 reads in 217 unique sequences.
+Sample 376 - 512 reads in 350 unique sequences.
+Sample 377 - 1385 reads in 524 unique sequences.
+Sample 378 - 729 reads in 141 unique sequences.
+Sample 379 - 1302 reads in 595 unique sequences.
+Sample 380 - 2788 reads in 950 unique sequences.
+Sample 381 - 3519 reads in 571 unique sequences.
+Sample 382 - 755 reads in 105 unique sequences.
+Sample 383 - 514 reads in 229 unique sequences.
+Sample 384 - 6 reads in 3 unique sequences.
+Sample 385 - 166 reads in 47 unique sequences.
+Sample 386 - 1055 reads in 112 unique sequences.
+Sample 387 - 853 reads in 79 unique sequences.
+Sample 388 - 1249 reads in 584 unique sequences.
+Sample 389 - 3267 reads in 914 unique sequences.
+Sample 390 - 343 reads in 102 unique sequences.
+Sample 391 - 4805 reads in 490 unique sequences.
+Sample 392 - 3327 reads in 265 unique sequences.
+Sample 393 - 204 reads in 110 unique sequences.
+Sample 394 - 38 reads in 24 unique sequences.
+Sample 395 - 5 reads in 3 unique sequences.
+Sample 396 - 1270 reads in 163 unique sequences.
+Sample 397 - 260 reads in 31 unique sequences.
+Sample 398 - 764 reads in 248 unique sequences.
+Sample 399 - 2221 reads in 315 unique sequences.
+Sample 400 - 2880 reads in 702 unique sequences.
+Sample 401 - 67 reads in 19 unique sequences.
+Sample 402 - 217 reads in 40 unique sequences.
+Sample 403 - 26 reads in 10 unique sequences.
+Sample 404 - 4109 reads in 492 unique sequences.
+Sample 405 - 3189 reads in 366 unique sequences.
+Sample 406 - 213 reads in 108 unique sequences.
+Sample 407 - 64 reads in 25 unique sequences.
+Sample 408 - 3648 reads in 392 unique sequences.
+Sample 409 - 1702 reads in 197 unique sequences.
+Sample 410 - 1706 reads in 407 unique sequences.
+Sample 411 - 2761 reads in 368 unique sequences.
+Sample 412 - 745 reads in 84 unique sequences.
+Sample 413 - 3456 reads in 344 unique sequences.
+Sample 414 - 9 reads in 6 unique sequences.
+Sample 415 - 56 reads in 45 unique sequences.
+Sample 416 - 1773 reads in 396 unique sequences.
+Sample 417 - 2535 reads in 422 unique sequences.
+Sample 418 - 522 reads in 220 unique sequences.
+Sample 419 - 735 reads in 163 unique sequences.
+Sample 420 - 4 reads in 4 unique sequences.
+Sample 421 - 2380 reads in 575 unique sequences.
+Sample 422 - 3267 reads in 330 unique sequences.
+Sample 423 - 419 reads in 80 unique sequences.
+Sample 424 - 10660 reads in 940 unique sequences.
+Sample 425 - 1451 reads in 200 unique sequences.
+Sample 426 - 1249 reads in 338 unique sequences.
+Sample 427 - 810 reads in 150 unique sequences.
+Sample 428 - 769 reads in 103 unique sequences.
+Sample 429 - 5 reads in 5 unique sequences.
+Sample 430 - 2511 reads in 340 unique sequences.
+Sample 431 - 2497 reads in 492 unique sequences.
+Sample 432 - 2915 reads in 319 unique sequences.
+Sample 433 - 2195 reads in 236 unique sequences.
+Sample 434 - 1298 reads in 550 unique sequences.
+Sample 435 - 1399 reads in 183 unique sequences.
+Sample 436 - 9 reads in 9 unique sequences.
+Sample 437 - 458 reads in 259 unique sequences.
+Sample 438 - 7102 reads in 937 unique sequences.
+Sample 439 - 2856 reads in 361 unique sequences.
+Sample 440 - 1993 reads in 273 unique sequences.
+Sample 441 - 15 reads in 9 unique sequences.
+Sample 442 - 197 reads in 88 unique sequences.
+Sample 443 - 5575 reads in 571 unique sequences.
+Sample 444 - 3604 reads in 470 unique sequences.
+Sample 445 - 338 reads in 68 unique sequences.
+Time difference of 1.479239 mins
+
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2026__SodB_E1F.forward.fastq.gz
+Encountered 524 unique sequences from 3127 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2027__SodB_E1F.forward.fastq.gz
+Encountered 172 unique sequences from 911 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2028__SodB_E1F.forward.fastq.gz
+Encountered 149 unique sequences from 936 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2029__SodB_E1F.forward.fastq.gz
+Encountered 375 unique sequences from 982 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2030__SodB_E1F.forward.fastq.gz
+Encountered 917 unique sequences from 7748 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2031__SodB_E1F.forward.fastq.gz
+Encountered 37 unique sequences from 130 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2032__SodB_E1F.forward.fastq.gz
+Encountered 913 unique sequences from 5158 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2033__SodB_E1F.forward.fastq.gz
+Encountered 555 unique sequences from 1073 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2035__SodB_E1F.forward.fastq.gz
+Encountered 124 unique sequences from 1341 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2038__SodB_E1F.forward.fastq.gz
+Encountered 115 unique sequences from 234 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2040__SodB_E1F.forward.fastq.gz
+Encountered 88 unique sequences from 567 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2046__SodB_E1F.forward.fastq.gz
+Encountered 45 unique sequences from 221 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2047__SodB_E1F.forward.fastq.gz
+Encountered 10 unique sequences from 25 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2049__SodB_E1F.forward.fastq.gz
+Encountered 987 unique sequences from 9824 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2050__SodB_E1F.forward.fastq.gz
+Encountered 1008 unique sequences from 9294 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2051__SodB_E1F.forward.fastq.gz
+Encountered 1187 unique sequences from 6568 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2052__SodB_E1F.forward.fastq.gz
+Encountered 238 unique sequences from 1549 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2053__SodB_E1F.forward.fastq.gz
+Encountered 1699 unique sequences from 9552 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2054__SodB_E1F.forward.fastq.gz
+Encountered 84 unique sequences from 1105 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2056__SodB_E1F.forward.fastq.gz
+Encountered 890 unique sequences from 6173 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2057__SodB_E1F.forward.fastq.gz
+Encountered 511 unique sequences from 4672 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2058__SodB_E1F.forward.fastq.gz
+Encountered 490 unique sequences from 4407 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2059__SodB_E1F.forward.fastq.gz
+Encountered 650 unique sequences from 1138 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2060__SodB_E1F.forward.fastq.gz
+Encountered 679 unique sequences from 2472 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2061__SodB_E1F.forward.fastq.gz
+Encountered 630 unique sequences from 2656 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2062__SodB_E1F.forward.fastq.gz
+Encountered 160 unique sequences from 1740 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2063__SodB_E1F.forward.fastq.gz
+Encountered 292 unique sequences from 1550 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2064__SodB_E1F.forward.fastq.gz
+Encountered 432 unique sequences from 3678 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2066__SodB_E1F.forward.fastq.gz
+Encountered 16 unique sequences from 124 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2068__SodB_E1F.forward.fastq.gz
+Encountered 43 unique sequences from 122 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2069__SodB_E1F.forward.fastq.gz
+Encountered 56 unique sequences from 103 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2073__SodB_E1F.forward.fastq.gz
+Encountered 169 unique sequences from 1212 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2074__SodB_E1F.forward.fastq.gz
+Encountered 3 unique sequences from 3 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2076__SodB_E1F.forward.fastq.gz
+Encountered 9 unique sequences from 24 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2077__SodB_E1F.forward.fastq.gz
+Encountered 348 unique sequences from 2435 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2078__SodB_E1F.forward.fastq.gz
+Encountered 346 unique sequences from 2995 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2080__SodB_E1F.forward.fastq.gz
+Encountered 213 unique sequences from 1933 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2082__SodB_E1F.forward.fastq.gz
+Encountered 437 unique sequences from 3833 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2084__SodB_E1F.forward.fastq.gz
+Encountered 519 unique sequences from 4044 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2085__SodB_E1F.forward.fastq.gz
+Encountered 196 unique sequences from 2263 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2086__SodB_E1F.forward.fastq.gz
+Encountered 4 unique sequences from 4 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2087__SodB_E1F.forward.fastq.gz
+Encountered 242 unique sequences from 1658 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2088__SodB_E1F.forward.fastq.gz
+Encountered 770 unique sequences from 3620 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2089__SodB_E1F.forward.fastq.gz
+Encountered 226 unique sequences from 1715 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2090__SodB_E1F.forward.fastq.gz
+Encountered 64 unique sequences from 98 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2091__SodB_E1F.forward.fastq.gz
+Encountered 351 unique sequences from 4191 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2093__SodB_E1F.forward.fastq.gz
+Encountered 67 unique sequences from 515 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2094__SodB_E1F.forward.fastq.gz
+Encountered 124 unique sequences from 278 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2095__SodB_E1F.forward.fastq.gz
+Encountered 54 unique sequences from 676 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2098__SodB_E1F.forward.fastq.gz
+Encountered 44 unique sequences from 402 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2099__SodB_E1F.forward.fastq.gz
+Encountered 84 unique sequences from 593 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2100__SodB_E1F.forward.fastq.gz
+Encountered 232 unique sequences from 2140 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2101__SodB_E1F.forward.fastq.gz
+Encountered 199 unique sequences from 1111 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2105__SodB_E1F.forward.fastq.gz
+Encountered 1033 unique sequences from 6071 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2106__SodB_E1F.forward.fastq.gz
+Encountered 363 unique sequences from 1225 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2107__SodB_E1F.forward.fastq.gz
+Encountered 711 unique sequences from 7139 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2108__SodB_E1F.forward.fastq.gz
+Encountered 187 unique sequences from 1539 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2109__SodB_E1F.forward.fastq.gz
+Encountered 139 unique sequences from 1191 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2110__SodB_E1F.forward.fastq.gz
+Encountered 188 unique sequences from 2122 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2111__SodB_E1F.forward.fastq.gz
+Encountered 281 unique sequences from 1339 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2112__SodB_E1F.forward.fastq.gz
+Encountered 798 unique sequences from 4009 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2113__SodB_E1F.forward.fastq.gz
+Encountered 153 unique sequences from 1098 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2114__SodB_E1F.forward.fastq.gz
+Encountered 47 unique sequences from 376 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2115__SodB_E1F.forward.fastq.gz
+Encountered 416 unique sequences from 1835 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2116__SodB_E1F.forward.fastq.gz
+Encountered 106 unique sequences from 680 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2117__SodB_E1F.forward.fastq.gz
+Encountered 106 unique sequences from 299 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2119__SodB_E1F.forward.fastq.gz
+Encountered 230 unique sequences from 1927 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_2128__SodB_E1F.forward.fastq.gz
+Encountered 66 unique sequences from 555 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3001__SodB_E1F.forward.fastq.gz
+Encountered 330 unique sequences from 1134 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3002__SodB_E1F.forward.fastq.gz
+Encountered 27 unique sequences from 181 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3003__SodB_E1F.forward.fastq.gz
+Encountered 170 unique sequences from 202 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3004__SodB_E1F.forward.fastq.gz
+Encountered 586 unique sequences from 1127 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3005__SodB_E1F.forward.fastq.gz
+Encountered 592 unique sequences from 3640 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3006__SodB_E1F.forward.fastq.gz
+Encountered 113 unique sequences from 147 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3007__SodB_E1F.forward.fastq.gz
+Encountered 13 unique sequences from 20 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3009__SodB_E1F.forward.fastq.gz
+Encountered 80 unique sequences from 600 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3011__SodB_E1F.forward.fastq.gz
+Encountered 13 unique sequences from 26 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3012__SodB_E1F.forward.fastq.gz
+Encountered 285 unique sequences from 611 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3013__SodB_E1F.forward.fastq.gz
+Encountered 341 unique sequences from 763 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3014__SodB_E1F.forward.fastq.gz
+Encountered 55 unique sequences from 331 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3015__SodB_E1F.forward.fastq.gz
+Encountered 6 unique sequences from 47 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3016__SodB_E1F.forward.fastq.gz
+Encountered 78 unique sequences from 839 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3018__SodB_E1F.forward.fastq.gz
+Encountered 21 unique sequences from 111 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3019__SodB_E1F.forward.fastq.gz
+Encountered 12 unique sequences from 32 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3021__SodB_E1F.forward.fastq.gz
+Encountered 30 unique sequences from 211 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3023__SodB_E1F.forward.fastq.gz
+Encountered 4 unique sequences from 4 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3025__SodB_E1F.forward.fastq.gz
+Encountered 666 unique sequences from 3356 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3026__SodB_E1F.forward.fastq.gz
+Encountered 765 unique sequences from 5091 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3027__SodB_E1F.forward.fastq.gz
+Encountered 41 unique sequences from 333 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3028__SodB_E1F.forward.fastq.gz
+Encountered 326 unique sequences from 2982 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3029__SodB_E1F.forward.fastq.gz
+Encountered 443 unique sequences from 3562 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3030__SodB_E1F.forward.fastq.gz
+Encountered 334 unique sequences from 984 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3031__SodB_E1F.forward.fastq.gz
+Encountered 729 unique sequences from 4247 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3032__SodB_E1F.forward.fastq.gz
+Encountered 6 unique sequences from 8 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3033__SodB_E1F.forward.fastq.gz
+Encountered 328 unique sequences from 1778 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3034__SodB_E1F.forward.fastq.gz
+Encountered 24 unique sequences from 42 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3035__SodB_E1F.forward.fastq.gz
+Encountered 35 unique sequences from 185 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3036__SodB_E1F.forward.fastq.gz
+Encountered 2 unique sequences from 2 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3038__SodB_E1F.forward.fastq.gz
+Encountered 23 unique sequences from 120 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3039__SodB_E1F.forward.fastq.gz
+Encountered 3 unique sequences from 11 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3043__SodB_E1F.forward.fastq.gz
+Encountered 78 unique sequences from 444 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3044__SodB_E1F.forward.fastq.gz
+Encountered 48 unique sequences from 149 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3045__SodB_E1F.forward.fastq.gz
+Encountered 39 unique sequences from 334 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3047__SodB_E1F.forward.fastq.gz
+Encountered 6 unique sequences from 29 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3049__SodB_E1F.forward.fastq.gz
+Encountered 583 unique sequences from 3103 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3050__SodB_E1F.forward.fastq.gz
+Encountered 236 unique sequences from 941 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3051__SodB_E1F.forward.fastq.gz
+Encountered 358 unique sequences from 2498 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3052__SodB_E1F.forward.fastq.gz
+Encountered 634 unique sequences from 1405 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3053__SodB_E1F.forward.fastq.gz
+Encountered 306 unique sequences from 4302 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3055__SodB_E1F.forward.fastq.gz
+Encountered 1062 unique sequences from 5550 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3056__SodB_E1F.forward.fastq.gz
+Encountered 292 unique sequences from 2722 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3057__SodB_E1F.forward.fastq.gz
+Encountered 564 unique sequences from 4994 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3058__SodB_E1F.forward.fastq.gz
+Encountered 168 unique sequences from 1499 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3060__SodB_E1F.forward.fastq.gz
+Encountered 220 unique sequences from 410 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3061__SodB_E1F.forward.fastq.gz
+Encountered 923 unique sequences from 1854 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3062__SodB_E1F.forward.fastq.gz
+Encountered 53 unique sequences from 333 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3063__SodB_E1F.forward.fastq.gz
+Encountered 561 unique sequences from 7847 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3064__SodB_E1F.forward.fastq.gz
+Encountered 213 unique sequences from 821 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3067__SodB_E1F.forward.fastq.gz
+Encountered 12 unique sequences from 25 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3068__SodB_E1F.forward.fastq.gz
+Encountered 21 unique sequences from 29 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3070__SodB_E1F.forward.fastq.gz
+Encountered 1079 unique sequences from 6806 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3071__SodB_E1F.forward.fastq.gz
+Encountered 272 unique sequences from 813 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3072__SodB_E1F.forward.fastq.gz
+Encountered 139 unique sequences from 854 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3074__SodB_E1F.forward.fastq.gz
+Encountered 26 unique sequences from 43 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3075__SodB_E1F.forward.fastq.gz
+Encountered 691 unique sequences from 1210 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3077__SodB_E1F.forward.fastq.gz
+Encountered 402 unique sequences from 3822 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3078__SodB_E1F.forward.fastq.gz
+Encountered 6 unique sequences from 6 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3080__SodB_E1F.forward.fastq.gz
+Encountered 6 unique sequences from 12 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3081__SodB_E1F.forward.fastq.gz
+Encountered 3 unique sequences from 3 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3082__SodB_E1F.forward.fastq.gz
+Encountered 244 unique sequences from 1629 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3084__SodB_E1F.forward.fastq.gz
+Encountered 222 unique sequences from 2968 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3085__SodB_E1F.forward.fastq.gz
+Encountered 42 unique sequences from 254 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3086__SodB_E1F.forward.fastq.gz
+Encountered 4 unique sequences from 4 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3087__SodB_E1F.forward.fastq.gz
+Encountered 444 unique sequences from 3213 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3088__SodB_E1F.forward.fastq.gz
+Encountered 195 unique sequences from 1288 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3089__SodB_E1F.forward.fastq.gz
+Encountered 444 unique sequences from 1144 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3090__SodB_E1F.forward.fastq.gz
+Encountered 7 unique sequences from 12 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3092__SodB_E1F.forward.fastq.gz
+Encountered 111 unique sequences from 583 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3095__SodB_E1F.forward.fastq.gz
+Encountered 149 unique sequences from 309 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3096__SodB_E1F.forward.fastq.gz
+Encountered 4 unique sequences from 4 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3097__SodB_E1F.forward.fastq.gz
+Encountered 145 unique sequences from 852 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3098__SodB_E1F.forward.fastq.gz
+Encountered 831 unique sequences from 6467 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3099__SodB_E1F.forward.fastq.gz
+Encountered 73 unique sequences from 598 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3100__SodB_E1F.forward.fastq.gz
+Encountered 66 unique sequences from 304 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3101__SodB_E1F.forward.fastq.gz
+Encountered 25 unique sequences from 123 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3104__SodB_E1F.forward.fastq.gz
+Encountered 134 unique sequences from 1262 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3105__SodB_E1F.forward.fastq.gz
+Encountered 567 unique sequences from 7131 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3106__SodB_E1F.forward.fastq.gz
+Encountered 223 unique sequences from 2216 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3107__SodB_E1F.forward.fastq.gz
+Encountered 619 unique sequences from 5331 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3108__SodB_E1F.forward.fastq.gz
+Encountered 122 unique sequences from 783 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3109__SodB_E1F.forward.fastq.gz
+Encountered 265 unique sequences from 2221 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3110__SodB_E1F.forward.fastq.gz
+Encountered 186 unique sequences from 1321 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3111__SodB_E1F.forward.fastq.gz
+Encountered 81 unique sequences from 1008 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3112__SodB_E1F.forward.fastq.gz
+Encountered 248 unique sequences from 306 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3113__SodB_E1F.forward.fastq.gz
+Encountered 7 unique sequences from 34 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3114__SodB_E1F.forward.fastq.gz
+Encountered 28 unique sequences from 143 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3115__SodB_E1F.forward.fastq.gz
+Encountered 12 unique sequences from 30 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3116__SodB_E1F.forward.fastq.gz
+Encountered 15 unique sequences from 30 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3117__SodB_E1F.forward.fastq.gz
+Encountered 410 unique sequences from 4245 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3119__SodB_E1F.forward.fastq.gz
+Encountered 436 unique sequences from 3998 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3127__SodB_E1F.forward.fastq.gz
+Encountered 37 unique sequences from 361 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_3128__SodB_E1F.forward.fastq.gz
+Encountered 265 unique sequences from 730 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4001__SodB_E1F.forward.fastq.gz
+Encountered 108 unique sequences from 1046 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4002__SodB_E1F.forward.fastq.gz
+Encountered 32 unique sequences from 277 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4003__SodB_E1F.forward.fastq.gz
+Encountered 31 unique sequences from 146 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4004__SodB_E1F.forward.fastq.gz
+Encountered 72 unique sequences from 534 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4005__SodB_E1F.forward.fastq.gz
+Encountered 51 unique sequences from 417 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4007__SodB_E1F.forward.fastq.gz
+Encountered 8 unique sequences from 48 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4008__SodB_E1F.forward.fastq.gz
+Encountered 56 unique sequences from 164 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4009__SodB_E1F.forward.fastq.gz
+Encountered 161 unique sequences from 1978 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4010__SodB_E1F.forward.fastq.gz
+Encountered 4 unique sequences from 15 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4011__SodB_E1F.forward.fastq.gz
+Encountered 490 unique sequences from 1185 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4012__SodB_E1F.forward.fastq.gz
+Encountered 21 unique sequences from 145 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4014__SodB_E1F.forward.fastq.gz
+Encountered 14 unique sequences from 19 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4015__SodB_E1F.forward.fastq.gz
+Encountered 94 unique sequences from 769 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4016__SodB_E1F.forward.fastq.gz
+Encountered 77 unique sequences from 501 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4018__SodB_E1F.forward.fastq.gz
+Encountered 54 unique sequences from 315 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4020__SodB_E1F.forward.fastq.gz
+Encountered 5 unique sequences from 25 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4021__SodB_E1F.forward.fastq.gz
+Encountered 365 unique sequences from 3595 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4025__SodB_E1F.forward.fastq.gz
+Encountered 9 unique sequences from 41 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4026__SodB_E1F.forward.fastq.gz
+Encountered 65 unique sequences from 334 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4029__SodB_E1F.forward.fastq.gz
+Encountered 3 unique sequences from 11 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4030__SodB_E1F.forward.fastq.gz
+Encountered 34 unique sequences from 160 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4033__SodB_E1F.forward.fastq.gz
+Encountered 164 unique sequences from 389 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4035__SodB_E1F.forward.fastq.gz
+Encountered 99 unique sequences from 552 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4036__SodB_E1F.forward.fastq.gz
+Encountered 219 unique sequences from 536 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4042__SodB_E1F.forward.fastq.gz
+Encountered 8 unique sequences from 19 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4049__SodB_E1F.forward.fastq.gz
+Encountered 5 unique sequences from 6 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4050__SodB_E1F.forward.fastq.gz
+Encountered 23 unique sequences from 28 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4052__SodB_E1F.forward.fastq.gz
+Encountered 277 unique sequences from 1693 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4053__SodB_E1F.forward.fastq.gz
+Encountered 332 unique sequences from 2018 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4054__SodB_E1F.forward.fastq.gz
+Encountered 62 unique sequences from 615 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4056__SodB_E1F.forward.fastq.gz
+Encountered 160 unique sequences from 1779 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4057__SodB_E1F.forward.fastq.gz
+Encountered 311 unique sequences from 2858 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4058__SodB_E1F.forward.fastq.gz
+Encountered 52 unique sequences from 334 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4059__SodB_E1F.forward.fastq.gz
+Encountered 161 unique sequences from 1488 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4062__SodB_E1F.forward.fastq.gz
+Encountered 800 unique sequences from 5686 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4063__SodB_E1F.forward.fastq.gz
+Encountered 259 unique sequences from 2253 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4064__SodB_E1F.forward.fastq.gz
+Encountered 85 unique sequences from 352 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4066__SodB_E1F.forward.fastq.gz
+Encountered 23 unique sequences from 63 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4073__SodB_E1F.forward.fastq.gz
+Encountered 226 unique sequences from 2096 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4075__SodB_E1F.forward.fastq.gz
+Encountered 556 unique sequences from 1243 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4076__SodB_E1F.forward.fastq.gz
+Encountered 63 unique sequences from 591 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4077__SodB_E1F.forward.fastq.gz
+Encountered 125 unique sequences from 1020 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4078__SodB_E1F.forward.fastq.gz
+Encountered 47 unique sequences from 64 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4079__SodB_E1F.forward.fastq.gz
+Encountered 8 unique sequences from 9 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4080__SodB_E1F.forward.fastq.gz
+Encountered 20 unique sequences from 32 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4081__SodB_E1F.forward.fastq.gz
+Encountered 565 unique sequences from 1072 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4082__SodB_E1F.forward.fastq.gz
+Encountered 550 unique sequences from 4240 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4083__SodB_E1F.forward.fastq.gz
+Encountered 139 unique sequences from 1110 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4084__SodB_E1F.forward.fastq.gz
+Encountered 179 unique sequences from 1328 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4085__SodB_E1F.forward.fastq.gz
+Encountered 224 unique sequences from 3075 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4086__SodB_E1F.forward.fastq.gz
+Encountered 38 unique sequences from 400 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4088__SodB_E1F.forward.fastq.gz
+Encountered 29 unique sequences from 188 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4089__SodB_E1F.forward.fastq.gz
+Encountered 95 unique sequences from 642 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4091__SodB_E1F.forward.fastq.gz
+Encountered 6 unique sequences from 9 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4094__SodB_E1F.forward.fastq.gz
+Encountered 57 unique sequences from 237 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4095__SodB_E1F.forward.fastq.gz
+Encountered 86 unique sequences from 639 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4097__SodB_E1F.forward.fastq.gz
+Encountered 197 unique sequences from 1884 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4098__SodB_E1F.forward.fastq.gz
+Encountered 372 unique sequences from 855 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4099__SodB_E1F.forward.fastq.gz
+Encountered 420 unique sequences from 2050 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4100__SodB_E1F.forward.fastq.gz
+Encountered 41 unique sequences from 328 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4105__SodB_E1F.forward.fastq.gz
+Encountered 571 unique sequences from 7635 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4106__SodB_E1F.forward.fastq.gz
+Encountered 738 unique sequences from 2766 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4107__SodB_E1F.forward.fastq.gz
+Encountered 390 unique sequences from 3056 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4108__SodB_E1F.forward.fastq.gz
+Encountered 90 unique sequences from 899 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4109__SodB_E1F.forward.fastq.gz
+Encountered 316 unique sequences from 462 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4111__SodB_E1F.forward.fastq.gz
+Encountered 32 unique sequences from 59 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4112__SodB_E1F.forward.fastq.gz
+Encountered 114 unique sequences from 1070 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4114__SodB_E1F.forward.fastq.gz
+Encountered 17 unique sequences from 20 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4116__SodB_E1F.forward.fastq.gz
+Encountered 8 unique sequences from 33 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4117__SodB_E1F.forward.fastq.gz
+Encountered 424 unique sequences from 3061 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4119__SodB_E1F.forward.fastq.gz
+Encountered 211 unique sequences from 963 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_4127__SodB_E1F.forward.fastq.gz
+Encountered 51 unique sequences from 415 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5001__SodB_E1F.forward.fastq.gz
+Encountered 444 unique sequences from 1792 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5002__SodB_E1F.forward.fastq.gz
+Encountered 258 unique sequences from 3490 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5003__SodB_E1F.forward.fastq.gz
+Encountered 8 unique sequences from 9 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5004__SodB_E1F.forward.fastq.gz
+Encountered 5 unique sequences from 8 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5007__SodB_E1F.forward.fastq.gz
+Encountered 7 unique sequences from 30 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5009__SodB_E1F.forward.fastq.gz
+Encountered 50 unique sequences from 439 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5010__SodB_E1F.forward.fastq.gz
+Encountered 87 unique sequences from 471 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5011__SodB_E1F.forward.fastq.gz
+Encountered 1 unique sequences from 5 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5012__SodB_E1F.forward.fastq.gz
+Encountered 8 unique sequences from 8 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5014__SodB_E1F.forward.fastq.gz
+Encountered 1114 unique sequences from 5847 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5015__SodB_E1F.forward.fastq.gz
+Encountered 277 unique sequences from 1734 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5016__SodB_E1F.forward.fastq.gz
+Encountered 57 unique sequences from 518 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5017__SodB_E1F.forward.fastq.gz
+Encountered 35 unique sequences from 227 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5018__SodB_E1F.forward.fastq.gz
+Encountered 11 unique sequences from 45 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5019__SodB_E1F.forward.fastq.gz
+Encountered 468 unique sequences from 851 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5020__SodB_E1F.forward.fastq.gz
+Encountered 5 unique sequences from 15 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5021__SodB_E1F.forward.fastq.gz
+Encountered 657 unique sequences from 3423 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5023__SodB_E1F.forward.fastq.gz
+Encountered 10 unique sequences from 40 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5026__SodB_E1F.forward.fastq.gz
+Encountered 443 unique sequences from 1279 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5028__SodB_E1F.forward.fastq.gz
+Encountered 59 unique sequences from 289 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5029__SodB_E1F.forward.fastq.gz
+Encountered 296 unique sequences from 2842 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5031__SodB_E1F.forward.fastq.gz
+Encountered 156 unique sequences from 731 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5032__SodB_E1F.forward.fastq.gz
+Encountered 231 unique sequences from 2057 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5033__SodB_E1F.forward.fastq.gz
+Encountered 217 unique sequences from 324 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5034__SodB_E1F.forward.fastq.gz
+Encountered 350 unique sequences from 512 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5035__SodB_E1F.forward.fastq.gz
+Encountered 524 unique sequences from 1385 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5036__SodB_E1F.forward.fastq.gz
+Encountered 141 unique sequences from 729 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5037__SodB_E1F.forward.fastq.gz
+Encountered 595 unique sequences from 1302 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5038__SodB_E1F.forward.fastq.gz
+Encountered 950 unique sequences from 2788 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5039__SodB_E1F.forward.fastq.gz
+Encountered 571 unique sequences from 3519 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5040__SodB_E1F.forward.fastq.gz
+Encountered 105 unique sequences from 755 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5041__SodB_E1F.forward.fastq.gz
+Encountered 229 unique sequences from 514 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5042__SodB_E1F.forward.fastq.gz
+Encountered 3 unique sequences from 6 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5043__SodB_E1F.forward.fastq.gz
+Encountered 47 unique sequences from 166 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5047__SodB_E1F.forward.fastq.gz
+Encountered 112 unique sequences from 1055 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5048__SodB_E1F.forward.fastq.gz
+Encountered 79 unique sequences from 853 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5049__SodB_E1F.forward.fastq.gz
+Encountered 584 unique sequences from 1249 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5050__SodB_E1F.forward.fastq.gz
+Encountered 914 unique sequences from 3267 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5053__SodB_E1F.forward.fastq.gz
+Encountered 102 unique sequences from 343 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5055__SodB_E1F.forward.fastq.gz
+Encountered 490 unique sequences from 4805 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5056__SodB_E1F.forward.fastq.gz
+Encountered 265 unique sequences from 3327 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5057__SodB_E1F.forward.fastq.gz
+Encountered 110 unique sequences from 204 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5058__SodB_E1F.forward.fastq.gz
+Encountered 24 unique sequences from 38 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5059__SodB_E1F.forward.fastq.gz
+Encountered 3 unique sequences from 5 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5060__SodB_E1F.forward.fastq.gz
+Encountered 163 unique sequences from 1270 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5061__SodB_E1F.forward.fastq.gz
+Encountered 31 unique sequences from 260 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5062__SodB_E1F.forward.fastq.gz
+Encountered 248 unique sequences from 764 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5063__SodB_E1F.forward.fastq.gz
+Encountered 315 unique sequences from 2221 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5064__SodB_E1F.forward.fastq.gz
+Encountered 702 unique sequences from 2880 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5066__SodB_E1F.forward.fastq.gz
+Encountered 19 unique sequences from 67 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5071__SodB_E1F.forward.fastq.gz
+Encountered 40 unique sequences from 217 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5074__SodB_E1F.forward.fastq.gz
+Encountered 10 unique sequences from 26 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5075__SodB_E1F.forward.fastq.gz
+Encountered 492 unique sequences from 4109 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5077__SodB_E1F.forward.fastq.gz
+Encountered 366 unique sequences from 3189 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5079__SodB_E1F.forward.fastq.gz
+Encountered 108 unique sequences from 213 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5080__SodB_E1F.forward.fastq.gz
+Encountered 25 unique sequences from 64 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5082__SodB_E1F.forward.fastq.gz
+Encountered 392 unique sequences from 3648 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5083__SodB_E1F.forward.fastq.gz
+Encountered 197 unique sequences from 1702 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5084__SodB_E1F.forward.fastq.gz
+Encountered 407 unique sequences from 1706 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5085__SodB_E1F.forward.fastq.gz
+Encountered 368 unique sequences from 2761 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5086__SodB_E1F.forward.fastq.gz
+Encountered 84 unique sequences from 745 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5087__SodB_E1F.forward.fastq.gz
+Encountered 344 unique sequences from 3456 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5088__SodB_E1F.forward.fastq.gz
+Encountered 6 unique sequences from 9 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5089__SodB_E1F.forward.fastq.gz
+Encountered 45 unique sequences from 56 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5090__SodB_E1F.forward.fastq.gz
+Encountered 396 unique sequences from 1773 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5091__SodB_E1F.forward.fastq.gz
+Encountered 422 unique sequences from 2535 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5092__SodB_E1F.forward.fastq.gz
+Encountered 220 unique sequences from 522 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5093__SodB_E1F.forward.fastq.gz
+Encountered 163 unique sequences from 735 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5094__SodB_E1F.forward.fastq.gz
+Encountered 4 unique sequences from 4 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5095__SodB_E1F.forward.fastq.gz
+Encountered 575 unique sequences from 2380 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5096__SodB_E1F.forward.fastq.gz
+Encountered 330 unique sequences from 3267 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5097__SodB_E1F.forward.fastq.gz
+Encountered 80 unique sequences from 419 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5098__SodB_E1F.forward.fastq.gz
+Encountered 940 unique sequences from 10660 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5099__SodB_E1F.forward.fastq.gz
+Encountered 200 unique sequences from 1451 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5100__SodB_E1F.forward.fastq.gz
+Encountered 338 unique sequences from 1249 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5101__SodB_E1F.forward.fastq.gz
+Encountered 150 unique sequences from 810 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5104__SodB_E1F.forward.fastq.gz
+Encountered 103 unique sequences from 769 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5105__SodB_E1F.forward.fastq.gz
+Encountered 5 unique sequences from 5 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5106__SodB_E1F.forward.fastq.gz
+Encountered 340 unique sequences from 2511 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5107__SodB_E1F.forward.fastq.gz
+Encountered 492 unique sequences from 2497 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5108__SodB_E1F.forward.fastq.gz
+Encountered 319 unique sequences from 2915 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5109__SodB_E1F.forward.fastq.gz
+Encountered 236 unique sequences from 2195 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5110__SodB_E1F.forward.fastq.gz
+Encountered 550 unique sequences from 1298 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5111__SodB_E1F.forward.fastq.gz
+Encountered 183 unique sequences from 1399 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5112__SodB_E1F.forward.fastq.gz
+Encountered 9 unique sequences from 9 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5113__SodB_E1F.forward.fastq.gz
+Encountered 259 unique sequences from 458 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5114__SodB_E1F.forward.fastq.gz
+Encountered 937 unique sequences from 7102 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5115__SodB_E1F.forward.fastq.gz
+Encountered 361 unique sequences from 2856 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5116__SodB_E1F.forward.fastq.gz
+Encountered 273 unique sequences from 1993 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5117__SodB_E1F.forward.fastq.gz
+Encountered 9 unique sequences from 15 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5118__SodB_E1F.forward.fastq.gz
+Encountered 88 unique sequences from 197 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5119__SodB_E1F.forward.fastq.gz
+Encountered 571 unique sequences from 5575 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5127__SodB_E1F.forward.fastq.gz
+Encountered 470 unique sequences from 3604 total sequences read.
+Dereplicating sequence entries in Fastq file: 03_FilterTrimming_fastaFiles/Sod_B__S_5128__SodB_E1F.forward.fastq.gz
+Encountered 68 unique sequences from 338 total sequences read.
+vsearch v2.15.2_linux_x86_64, 125.9GB RAM, 32 cores
+https://github.com/torognes/vsearch
+
+Reading file 04_Denoising/nonchim_seq.fasta 100%
+51603 nt in 214 seqs, min 200, max 245, avg 241
+Masking 100%
+Sorting by length 100%
+Counting k-mers 100%
+Clustering 100%
+Sorting clusters 100%
+Writing clusters 100%
+Clusters: 191 Size min 1, max 7, avg 1.1
+Singletons: 178, 83.2% of seqs, 93.2% of clusters
+Multiple alignments 100%
+Writing OTU table (mothur) 100%
